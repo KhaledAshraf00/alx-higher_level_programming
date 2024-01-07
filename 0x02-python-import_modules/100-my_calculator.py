@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-0;276;0cif __name__ == "__main__":
+__name__ == "__main__":
     import sys
 
     nargs = len(sys.argv) - 1
