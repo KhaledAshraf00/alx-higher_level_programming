@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-if __name__ == "__main__":
+0;276;0cif __name__ == "__main__":
     import sys
 
     nargs = len(sys.argv) - 1
@@ -24,4 +24,3 @@ if __name__ == "__main__":
         print("{} * {} = {}".format(a, b, mul(a, b)))
     else:
         print("{} / {} = {}".format(a, b, div(a, b)))
-        
